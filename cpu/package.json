@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "tape cpu.test.js | tap-spec"
+    "test": "tape cpu2.test.js | tap-spec"
   },
   "author": "",
   "license": "ISC",
